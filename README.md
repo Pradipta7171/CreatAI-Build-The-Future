@@ -1,6 +1,6 @@
 # CreatiAI
 
-(![CreatiAI Banner](imgs/createai%20(1).png))
+![CreatiAI Banner](imgs/createai%20(1).png)
 
 Welcome to **CreatiAI**, a cutting-edge platform that harnesses the power of AI to revolutionize your creativity and productivity! This platform is a multi-functional AI assistant that offers:
 
@@ -16,6 +16,8 @@ Welcome to **CreatiAI**, a cutting-edge platform that harnesses the power of AI 
 ## Getting Started
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+![CreatiAI Banner](imgs/createai%20(2).png)
 
 ### Development Server
 
@@ -141,4 +143,4 @@ We extend our gratitude to:
 - **OpenAI** for LLM inspirations.
 - The open-source community for their invaluable contributions.
 
-![Thank You](https://via.placeholder.com/1200x300?text=Thank+You+for+Exploring+CreatiAI)
+![Thank You](imgs/createai%20(3).png)
