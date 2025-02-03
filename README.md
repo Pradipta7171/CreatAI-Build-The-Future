@@ -1,6 +1,6 @@
 # CreatiAI
 
-![CreatiAI Banner](https://via.placeholder.com/1200x400?text=CreatiAI+Platform+Banner)
+(![CreatiAI Banner](imgs/createai%20(1).png))
 
 Welcome to **CreatiAI**, a cutting-edge platform that harnesses the power of AI to revolutionize your creativity and productivity! This platform is a multi-functional AI assistant that offers:
 
