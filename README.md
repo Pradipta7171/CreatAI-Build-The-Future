@@ -1,12 +1,12 @@
 # 🚀 CreatiAI
 
+Welcome to **CreatiAI**, an innovative platform designed to amplify creativity and productivity with the power of AI. It integrates multiple tools into one user-friendly interface, including:
+
 ## 🖥️ Demo
 
-<div align="center">
-   <img src = "imgs/createai%20(1).png">
-</div>
+### Screenshots
+![Feature Overview](imgs/createai%20(1).png)
 
-Welcome to **CreatiAI**, an innovative platform designed to amplify creativity and productivity with the power of AI. It integrates multiple tools into one user-friendly interface, including:
 
 - **🧠 Smart Chat**: AI-powered intelligent conversations.
 
@@ -15,6 +15,7 @@ Welcome to **CreatiAI**, an innovative platform designed to amplify creativity a
 </div>
 
 - **🎵 Music Composer**: Unique AI-generated melodies.
+- 
 - **🖼️ Image Generator**: Stunning visuals from text prompts.
 - **🎥 Video Creator**: AI-crafted video storytelling.
 - **💻 Code Assistant**: Efficient AI-supported coding.
@@ -44,11 +45,6 @@ Welcome to **CreatiAI**, an innovative platform designed to amplify creativity a
 - 🌐 **Optimized Performance and SEO** using Next.js.
 
 ---
-
-## 🖥️ Demo
-
-### Screenshots
-![Feature Overview](imgs/createai%20(1).png)
 
 ### Live Demo
 [Explore CreatiAI](https://creatiAI-demo.vercel.app)
@@ -112,9 +108,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-**Your Name** - yourname@example.com
+**Your Name** - pradipto9798@gmail.com
 
-Project Link: [GitHub Repository](https://github.com/yourusername/creatiAI)
+Project Link: [GitHub Repository](https://github.com/Pradipta7171/CreatAI-Build-The-Future.git)
 
 ---
 
