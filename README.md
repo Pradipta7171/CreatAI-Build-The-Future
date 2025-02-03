@@ -98,13 +98,45 @@ npm run dev
 
 ## 📁 Project Structure
 
+Here is an overview of the project structure:
+
 ```plaintext
-├── components/        # Reusable React components
-├── pages/             # Next.js pages
-├── styles/            # Global styles and Tailwind config
-├── lib/               # Utility functions and API integrations
-├── public/            # Static assets
-└── README.md          # Project documentation
+CreatiAI/
+├── app/
+│   ├── (auth)/
+│   │   ├── (routes)/
+│   │   │   └── layout.tsx
+│   ├── (dashboard)/
+│   │   ├── (routes)/
+│   │   │   └── layout.tsx
+│   │   └── (homepage)/
+│   │       └── page.tsx
+│   ├── api/
+│   │   ├── code/
+│   │   ├── image/
+│   │   ├── music/
+│   │   ├── smartchat/
+│   │   └── video/
+│   ├── favicon.ico
+│   ├── globals.css
+│   └── layout.tsx
+├── components/
+│   ├── ui/
+│   │   ├── bot-avatar.tsx
+│   │   ├── empty.tsx
+│   │   ├── heading.tsx
+│   │   ├── loader.tsx
+│   │   ├── mobile-sidebar.tsx
+│   │   ├── navbar.tsx
+│   │   ├── sidebar.tsx
+│   │   └── user-avatar.tsx
+├── lib/
+├── node_modules/
+├── public/
+├── .env
+├── .eslintrc.json
+├── package.json
+└── README.md
 ```
 
 ---
