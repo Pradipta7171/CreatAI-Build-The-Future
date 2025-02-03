@@ -1,6 +1,11 @@
 # CreatiAI
 
-![CreatiAI Banner](imgs/createai%20(1).png)
+## 🖥️ Demo
+
+<div align="center">
+   <img src = "imgs/createai%20(1).png">
+</div>
+
 
 Welcome to **CreatiAI**, a cutting-edge platform that harnesses the power of AI to revolutionize your creativity and productivity! This platform is a multi-functional AI assistant that offers:
 
