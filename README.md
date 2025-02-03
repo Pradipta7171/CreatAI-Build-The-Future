@@ -1,5 +1,7 @@
 # CreatiAI
 
+![CreatiAI Banner](https://via.placeholder.com/1200x400?text=CreatiAI+Platform+Banner)
+
 Welcome to **CreatiAI**, a cutting-edge platform that harnesses the power of AI to revolutionize your creativity and productivity! This platform is a multi-functional AI assistant that offers:
 
 - **Smart Chat**: Engage in intelligent conversations powered by advanced Large Language Models (LLMs).
@@ -64,6 +66,8 @@ CreatiAI combines state-of-the-art AI tools into a single, intuitive platform de
 2. **Generative AI models** like Gemini Flash for high-quality image and video generation.
 3. **Custom music composition models** tailored for unique melody generation.
 4. Modular and scalable backend architecture to integrate multiple AI tools seamlessly.
+
+![Feature Overview](https://via.placeholder.com/800x400?text=CreatiAI+Features+Overview)
 
 ### Key Features
 
@@ -136,3 +140,5 @@ We extend our gratitude to:
 - **Hugging Face** for their amazing transformer models.
 - **OpenAI** for LLM inspirations.
 - The open-source community for their invaluable contributions.
+
+![Thank You](https://via.placeholder.com/1200x300?text=Thank+You+for+Exploring+CreatiAI)
