@@ -15,10 +15,25 @@ Welcome to **CreatiAI**, an innovative platform designed to amplify creativity a
 </div>
 
 - **🎵 Music Composer**: Unique AI-generated melodies.
-- 
+
+<div align="center">
+   <img src = "imgs/create%20(1).png">
+</div>
+
+
 - **🖼️ Image Generator**: Stunning visuals from text prompts.
+
+<div align="center">
+   <img src = "imgs/create%20(2).png">
+</div>
+
 - **🎥 Video Creator**: AI-crafted video storytelling.
 - **💻 Code Assistant**: Efficient AI-supported coding.
+
+<div align="center">
+   <img src = "imgs/create%20(3).png">
+</div>
+
 - **💬 Feedback Hub**: A platform to share and improve CreatiAI.
 
 ---
